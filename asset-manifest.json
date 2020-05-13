@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nazimakber/react-ecomerce/static/css/main.a1e02514.chunk.css",
+    "main.js": "/nazimakber/react-ecomerce/static/js/main.806ca780.chunk.js",
+    "main.js.map": "/nazimakber/react-ecomerce/static/js/main.806ca780.chunk.js.map",
+    "runtime-main.js": "/nazimakber/react-ecomerce/static/js/runtime-main.c42066ce.js",
+    "runtime-main.js.map": "/nazimakber/react-ecomerce/static/js/runtime-main.c42066ce.js.map",
+    "static/js/2.b06dabc8.chunk.js": "/nazimakber/react-ecomerce/static/js/2.b06dabc8.chunk.js",
+    "static/js/2.b06dabc8.chunk.js.map": "/nazimakber/react-ecomerce/static/js/2.b06dabc8.chunk.js.map",
+    "index.html": "/nazimakber/react-ecomerce/index.html",
+    "precache-manifest.6efbabf6b9f8941242d62827e10689a7.js": "/nazimakber/react-ecomerce/precache-manifest.6efbabf6b9f8941242d62827e10689a7.js",
+    "service-worker.js": "/nazimakber/react-ecomerce/service-worker.js",
+    "static/css/main.a1e02514.chunk.css.map": "/nazimakber/react-ecomerce/static/css/main.a1e02514.chunk.css.map",
+    "static/js/2.b06dabc8.chunk.js.LICENSE.txt": "/nazimakber/react-ecomerce/static/js/2.b06dabc8.chunk.js.LICENSE.txt",
+    "static/media/crown.ed28accb.svg": "/nazimakber/react-ecomerce/static/media/crown.ed28accb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c42066ce.js",
+    "static/js/2.b06dabc8.chunk.js",
+    "static/css/main.a1e02514.chunk.css",
+    "static/js/main.806ca780.chunk.js"
+  ]
+}
