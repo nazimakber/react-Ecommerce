@@ -28,7 +28,7 @@ class SignUp extends React.Component {
         email,
         password
       );
-      createUserProfile(user, displayName);
+      createUserProfile(user, { displayName });
     } catch (error) {
       console.error(error);
     }
